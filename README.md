@@ -79,7 +79,6 @@ ________________________________________________________________________________
 Demonstration
 
 Video: https://drive.google.com/file/d/10ywGYlCo1AMOZtAOg7_ATJkgfmt0OfiW/view?usp=sharing
-https://github.com/user-attachments/assets/9ff83583-3fa6-4e6f-a798-9e21986a16c0
 __________________________________________________________________________________________________________________________________________
 Future Improvements
 
